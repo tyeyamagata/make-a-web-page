@@ -1,0 +1,40 @@
+* {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms0box-sizing: border-box;
+
+	font-family: 'Molengo', sans-serif;
+}
+h1 {font-size: 40px;
+}
+h2 {
+	text-align: left;
+	margin-left: 7px;
+	font-weight: bold;
+}
+h3 {
+	text-align: center;
+	font-weight: bold;
+}
+.grid {
+	background-color: #282D33;
+	border-radius: 20px;
+	margin: 7px;
+	padding-top: 7px;
+	padding-bottom: 9px;
+	margin-right: 10px;
+	margin-left: 10px;
+	color: white;
+}
+.module {
+	background-color: #CBE5FF;
+	border-radius: 4px;
+	margin-right: 10px;
+	margin-left: 10px;
+	margin-bottom: 5px;
+	width: auto;
+	color: black;
+}
+.col-12 {
+	width: 100%;
+}
